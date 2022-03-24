@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "imageUrl": "Image URL 1",
+    "imageUrlDark": "Image URL Dark 1",
+    "children": [
+      {
+        "date": "date1",
+        "title": "title1",
+        "body": "body1"
+      },
+      {
+        "date": "date2",
+        "title": "title2",
+        "body": "body2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "imageUrl": "Image URL 2",
+    "imageUrlDark": "Image URL Dark 2",
+    "children": [
+      {
+        "date": "date1",
+        "title": "title1",
+        "body": "body1"
+      },
+      {
+        "date": "date2",
+        "title": "title2",
+        "body": "body2"
+      }
+    ]
+  }
+]

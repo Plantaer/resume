@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#001422</color>
+    <color name="windowBackground">#000000</color>
+    <color name="statusBarColor">#001022</color>
+    <color name="colorAccent">#25568c</color>
+
+    <color name="textColor">@android:color/white</color>
+    <color name="bulbColor">@android:color/white</color>
+    <color name="subtextColor">#80FFFFFF</color>
+
+    <color name="item_background">#4100294A</color>
+
+    <color name="imageBackgroundTint">#003964</color>
+    <color name="colorStatusConnected">#204C22</color>
+    <color name="colorStatusNotConnected">#5E1515</color>
+</resources>
